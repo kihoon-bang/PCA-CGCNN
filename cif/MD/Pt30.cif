@@ -1,0 +1,54 @@
+data_image0
+_cell_length_a       35.68
+_cell_length_b       35.68
+_cell_length_c       35.68
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  Pt1      1.0000 0.34433  0.45212  0.47060  Biso   1.000  Pt
+  Pt2      1.0000 0.38607  0.47404  0.41258  Biso   1.000  Pt
+  Pt3      1.0000 0.45232  0.40093  0.47652  Biso   1.000  Pt
+  Pt4      1.0000 0.41881  0.46351  0.47682  Biso   1.000  Pt
+  Pt5      1.0000 0.45241  0.44152  0.41676  Biso   1.000  Pt
+  Pt6      1.0000 0.39107  0.40629  0.44032  Biso   1.000  Pt
+  Pt7      1.0000 0.49214  0.46580  0.47604  Biso   1.000  Pt
+  Pt8      1.0000 0.33138  0.44776  0.54901  Biso   1.000  Pt
+  Pt9      1.0000 0.36771  0.49683  0.59928  Biso   1.000  Pt
+  Pt10     1.0000 0.38456  0.48660  0.53300  Biso   1.000  Pt
+  Pt11     1.0000 0.45087  0.43506  0.53802  Biso   1.000  Pt
+  Pt12     1.0000 0.38515  0.40826  0.51393  Biso   1.000  Pt
+  Pt13     1.0000 0.39346  0.43147  0.58108  Biso   1.000  Pt
+  Pt14     1.0000 0.44149  0.48716  0.58648  Biso   1.000  Pt
+  Pt15     1.0000 0.32932  0.51885  0.43326  Biso   1.000  Pt
+  Pt16     1.0000 0.32211  0.56793  0.48811  Biso   1.000  Pt
+  Pt17     1.0000 0.36921  0.59123  0.44328  Biso   1.000  Pt
+  Pt18     1.0000 0.45612  0.51180  0.43429  Biso   1.000  Pt
+  Pt19     1.0000 0.43973  0.57603  0.45996  Biso   1.000  Pt
+  Pt20     1.0000 0.39747  0.54172  0.40465  Biso   1.000  Pt
+  Pt21     1.0000 0.38381  0.52688  0.47526  Biso   1.000  Pt
+  Pt22     1.0000 0.34595  0.54705  0.55182  Biso   1.000  Pt
+  Pt23     1.0000 0.31353  0.50175  0.50673  Biso   1.000  Pt
+  Pt24     1.0000 0.41310  0.55265  0.57460  Biso   1.000  Pt
+  Pt25     1.0000 0.39117  0.58831  0.51422  Biso   1.000  Pt
+  Pt26     1.0000 0.48594  0.54432  0.57037  Biso   1.000  Pt
+  Pt27     1.0000 0.44265  0.51964  0.51561  Biso   1.000  Pt
+  Pt28     1.0000 0.46091  0.59091  0.52496  Biso   1.000  Pt
+  Pt29     1.0000 0.50266  0.48365  0.54143  Biso   1.000  Pt
+  Pt30     1.0000 0.50279  0.53993  0.49101  Biso   1.000  Pt
